@@ -55,25 +55,25 @@ Working with professional Git workflows
 
 🧠 Core Learning Areas
 
-1️⃣ Modern C++
+1️⃣ C++
 
 Focus Areas:
 
-C++11/14/17/20 features
+Identifiers
+Keywords
+Variables
+Data Types
+Operators
+Basic Input / Output
+Conditional Statements
+Loops
+Functions
+Parameter Passing Techniques
+Default Arguments
+Recursion
+Inline Functions
+Lambda Expression
 
-RAII and resource management
-
-Smart pointers and ownership semantics
-
-STL deep understanding
-
-Multithreading and concurrency
-
-Move semantics
-
-Template programming
-
-Writing cache-friendly code
 
 2️⃣ Computer Architecture
 
