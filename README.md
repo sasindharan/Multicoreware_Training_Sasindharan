@@ -54,6 +54,7 @@ Applying ML concepts with systems awareness
 Working with professional Git workflows
 
 🧠 Core Learning Areas
+
 1️⃣ Modern C++
 
 Focus Areas:
