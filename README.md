@@ -60,18 +60,31 @@ Working with professional Git workflows
 Focus Areas:
 
 Identifiers
+
 Keywords
+
 Variables
+
 Data Types
+
 Operators
+
 Basic Input / Output
+
 Conditional Statements
+
 Loops
+
 Functions
+
 Parameter Passing Techniques
+
 Default Arguments
+
 Recursion
+
 Inline Functions
+
 Lambda Expression
 
 
